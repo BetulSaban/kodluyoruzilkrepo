@@ -20,5 +20,5 @@ code .
 Pull requestler kabul edilir. Büyük değişiklikler için lütten önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 ## Licence
 [MIT](https://choosealicense.com/licenses/mit/)
-![Pojemizin Görseli](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.pn
+![Pojemizin Görseli](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
 
